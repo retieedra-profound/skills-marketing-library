@@ -20,7 +20,6 @@ profound/
 | AEO Operator 2026 | [`aeo-operator-2026/`](./aeo-operator-2026/) |
 | Humanizer | [`humanizer/`](./humanizer/) |
 | Improved copywriting | [`improved-copywriting/`](./improved-copywriting/) |
-| Prompt writer | [`prompt-writer/`](./prompt-writer/) |
 
 ## Adding a Skill
 

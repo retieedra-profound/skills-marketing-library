@@ -1,6 +1,6 @@
 # Profound Skills
 
-Agent skills built for **Profound**.
+Skills for **Profound**.
 
 ## Structure
 
@@ -26,4 +26,4 @@ profound/
 1. Create a new folder: `profound/<skill-name>/`
 2. Add a `SKILL.md` that describes what the skill does and how the agent should execute it.
 3. Optionally add supporting files (for example `RESEARCH.md`) linked one level deep from `SKILL.md`.
-4. Register the skill path in your Cursor settings under `agent_skills`.
+4. Register the skill path in your agent settings so it can load `SKILL.md`.

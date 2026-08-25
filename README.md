@@ -1,8 +1,8 @@
 # skills.marketing
 
-This GitHub repository is the partner repo for the **Profound Marketing Skills** library at [skills.marketing](https://skills.marketing).
+This repository is the source for the skill library at [skills.marketing](https://skills.marketing), by Profound and partners.
 
-It holds Cursor Agent Skills organised by company, so marketing and product teams can discover, version, and share the same skill definitions that power the library.
+It holds skills organised by company, so marketing and product teams can discover, version, and share the same skill definitions that power the library.
 
 ## Structure
 
@@ -22,8 +22,8 @@ skills.marketing/
 
 | Folder | Description |
 |---|---|
-| [`profound/`](./profound/) | Agent skills for the Profound product suite |
-| [`wisprflow/`](./wisprflow/) | Agent skills for the Wisprflow product suite |
+| [`profound/`](./profound/) | Skills for Profound |
+| [`wisprflow/`](./wisprflow/) | Skills for Wisprflow |
 
 ## License
 

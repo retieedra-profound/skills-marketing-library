@@ -1,6 +1,6 @@
 # Wisprflow Skills
 
-Agent skills built for **Wisprflow**.
+Skills for **Wisprflow**.
 
 ## Structure
 
@@ -16,4 +16,4 @@ wisprflow/
 
 1. Create a new folder: `wisprflow/<skill-name>/`
 2. Add a `SKILL.md` that describes what the skill does and how the agent should execute it.
-3. Register the skill path in your Cursor settings under `agent_skills`.
+3. Register the skill path in your agent settings so it can load `SKILL.md`.

@@ -1,6 +1,6 @@
 # Profound Skills
 
-Skills for **Profound**.
+Skills by the **Profound** team.
 
 ## Structure
 

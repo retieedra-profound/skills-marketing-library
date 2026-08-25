@@ -1,6 +1,6 @@
 # Wisprflow Skills
 
-Skills for **Wisprflow**.
+Skills by the **Wisprflow** team.
 
 ## Structure
 

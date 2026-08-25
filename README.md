@@ -8,10 +8,10 @@ It holds skills organised by company, so marketing and product teams can discove
 
 ```
 skills.marketing/
-├── profound/          # Skills for Profound
+├── profound/          # Skills by the Profound team
 │   └── <skill-name>/
 │       └── SKILL.md
-├── wisprflow/         # Skills for Wisprflow
+├── wisprflow/         # Skills by the Wisprflow team
 │   └── <skill-name>/
 │       └── SKILL.md
 ├── README.md
@@ -22,8 +22,8 @@ skills.marketing/
 
 | Folder | Description |
 |---|---|
-| [`profound/`](./profound/) | Skills for Profound |
-| [`wisprflow/`](./wisprflow/) | Skills for Wisprflow |
+| [`profound/`](./profound/) | Skills by the Profound team |
+| [`wisprflow/`](./wisprflow/) | Skills by the Wisprflow team |
 
 ## License
 
